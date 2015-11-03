@@ -2,7 +2,7 @@ PageDown-Bootstrap
 ==================
   
 &nbsp;
-> ###Now runs on Stackato
+> ###Now runs on HPE Helion Stackato
 ``` stackato push -n ```
 
 &nbsp;
